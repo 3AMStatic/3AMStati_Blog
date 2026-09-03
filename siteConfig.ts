@@ -3,9 +3,9 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "3AMStatic の 宝藏之地",
-  faviconUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
+  faviconUrl: "https://images.innatu.cn/Avatar.jpg",
   authorName: "3AMStatic",
-  bio: "在代码、学术与分子动力学模拟间穿梭的普通人。近期正埋头于 GROMACS 模拟研究与神经网络计算。",
+  bio: "在代码、学术与计算机网络间穿梭的普通人。近期正埋头于计算机网络学习。",
 
   navTitle: "3AMStatic",
 
@@ -15,7 +15,7 @@ export const siteConfig = {
   navAfter: "宝藏之地",
 
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
-  avatarUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
+  avatarUrl: "https://images.innatu.cn/Avatar.jpg",
 
   // 3. 网站背景设置 (二选一)
   // 如果想用纯图片背景，请在下面 bgImage 写路径，并将 useGradient 设为 false
@@ -29,14 +29,14 @@ export const siteConfig = {
 
   // 5. 首页照片墙预览图
   photoWallImage: "https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg",
-  cloudMusicIds: ["1809646618", "3361076230", "1859390262"],
+  cloudMusicIds: ["25642214", "3382908505", "3399839173"],
   social: {
-    github: "https://github.com/heiehiehi",
-    gitee: "https://github.com/heiehiehi",
-    google: "mailto:bilibiliwuwuwu@gmail.com",
+    github: "https://github.com/3AMStatic",
+    gitee: "https://gitee.com/AMStatic",
+    google: "3amstatic.work@gmail.com",
     email: "work@innatu.cn",
-    qq: "1124533793",
-    wechat: "XingHuisama",
+    qq: "2692753880",
+    wechat: "Novovem_Jan15",
   },
   counts: {
     photos: 128, // 照片墙数量可以手动写死或动态计算
@@ -66,6 +66,6 @@ export const siteConfig = {
     maxOutputTokens: 150,
     temperature: 0.85,
   },
-  friendLinkApplyFormat: "名称：XingHuiSamaの宝藏之地\n简介：今天我也要学习吗\n链接：https://www.xinghuisama.top\n头像：https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
+  friendLinkApplyFormat: "",
   enableLevelSystem: true,
 };
