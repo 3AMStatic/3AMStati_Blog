@@ -5,7 +5,7 @@ export const friendsData: Friend[] = [
   {
     "id": "friend_1788405662793",
     "name": "muzzw",
-    "url": "muzzw.cn",
+    "url": "https://muzzw.cn",
     "avatar": "https://images.innatu.cn/muzzw_Avatar.jpg",
     "description": "神秘小哥哥",
     "themeColor": "#6366f1"
