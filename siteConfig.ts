@@ -33,7 +33,7 @@ export const siteConfig = {
   social: {
     github: "https://github.com/3AMStatic",
     gitee: "https://gitee.com/AMStatic",
-    google: "3amstatic.work@gmail.com",
+    google: "mailto:3amstatic.work@gmail.com",
     email: "work@innatu.cn",
     qq: "2692753880",
     wechat: "Novovem_Jan15",
